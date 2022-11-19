@@ -76,7 +76,6 @@
     position: relative;
     text-align: center;
     padding: 20px;
-    background-image: url("/img/9.png");
     background-position: center;
     background-size: cover;
 }
@@ -121,12 +120,9 @@
     text-align: center;
     padding: 12px;
     color: white;
-    background-image: url("/img/10.jpg");
-    background-position: center;
-    background-size: cover;
 }
 
-.footer center {
+.footer .center {
     position: relative;
     z-index: 10;
 }
